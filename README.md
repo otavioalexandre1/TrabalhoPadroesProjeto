@@ -8,11 +8,11 @@ Padrões utilizados
 
 Strategy
 
-Utilizado na forma de pagamento, tais como: no cartão e  à vista.
+Utilizado na forma de pagamento, tais como: no cartão e à vista.
 
 Composite
 
-Usado nas mercadorias, onde há possui mercadorias simples e compostas. 
+Usado nas mercadorias, onde possui mercadorias simples e compostas. 
 
 Builder
 
@@ -20,4 +20,4 @@ Criação de clientes. Esse padrão provê um maior controle durante o processo 
 
 Chain
 
-Usado para buscar mercadrias.
+Usado para buscar mercadorias.
